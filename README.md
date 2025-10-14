@@ -1,6 +1,5 @@
 # 🐘 EleTect 2.0 – Intelligent Ecosystem for Human–Wildlife Coexistence
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Built with TinyML](https://img.shields.io/badge/TinyML-Enabled-green)](https://www.tensorflow.org/lite/microcontrollers)
 [![LoRa Mesh](https://img.shields.io/badge/Communication-LoRa%20%7C%20MeshStatic-orange)]()
 [![Award](https://img.shields.io/badge/IEEE-IAS%20CMD%20Humanitarian%20Award%202025-gold)]()
