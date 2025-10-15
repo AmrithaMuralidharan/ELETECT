@@ -14,6 +14,12 @@ Built using *TinyML, **LoRa, and **bio-inspired design principles, EleTect redef
 This repository covers the complete *EleTect 2.0 system* and its modular extensions — forming a connected network of intelligent devices that monitor, detect, deter, and communicate in real-time.
 
 ---
+![eletect abhi](https://github.com/user-attachments/assets/cd8f0edd-c4f6-4676-a0ee-4ce37048dd6e)
+
+I’ve started a discussion on WILDLABS for EleTect 2.0: AI-Powered Ecosystem for Human–Wildlife Coexistence — you can check it out here:
+🔗 WILDLABS Discussion – https://wildlabs.net/discussion/eletect-20-ai-powered-ecosystem-human-wildlife-coexistence
+
+Please feel free to drop your insights, suggestions, or deployment experiences — especially if you’ve worked in conservation tech, forest environments, LoRa mesh networks, or wildlife deterrents. I’d love to learn from your field knowledge and improve EleTect’s design, robustness, and real-world usability together with the community.
 
 ## 🧩 Ecosystem Lineup
 
