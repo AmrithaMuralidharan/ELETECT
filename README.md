@@ -16,6 +16,17 @@ This repository covers the complete *EleTect 2.0 system* and its modular extensi
 ---
 ![eletect abhi](https://github.com/user-attachments/assets/cd8f0edd-c4f6-4676-a0ee-4ce37048dd6e)
 
+
+Field Survey, Official Approval & Real-World Trials
+To ensure EleTect was not just a lab prototype but a real-world conservation tool, our team carried out an extensive ground survey and obtained official permission for field testing from the Divisional Forest Officer (DFO) of Kothamangalam, Mr. Varun Dalia, IFS, and Forest Range Officer, Mr. Jaleel.
+<img width="633" height="431" alt="image" src="https://github.com/user-attachments/assets/a02071bf-595d-4409-8d06-4bac26c1f0de" />
+
+After the survey phase, we formally presented EleTect to the DFO Office, Kothamangalam, and Forest Range Office to discuss its technical operation, safety, and ecological compatibility.
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
+
 I’ve started a discussion on WILDLABS for EleTect 2.0: AI-Powered Ecosystem for Human–Wildlife Coexistence — you can check it out here:
 🔗 WILDLABS Discussion – https://wildlabs.net/discussion/eletect-20-ai-powered-ecosystem-human-wildlife-coexistence
 
