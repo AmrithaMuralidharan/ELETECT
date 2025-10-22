@@ -22,8 +22,9 @@ To ensure EleTect was not just a lab prototype but a real-world conservation too
 <img width="633" height="431" alt="image" src="https://github.com/user-attachments/assets/a02071bf-595d-4409-8d06-4bac26c1f0de" />
 
 After the survey phase, we formally presented EleTect to the DFO Office, Kothamangalam, and Forest Range Office to discuss its technical operation, safety, and ecological compatibility.
-<img width="412" height="230" alt="image" src="https://github.com/user-attachments/assets/45ef0b69-7c5b-429e-802e-a84267f13fcd" />
-<img width="412" height="223" alt="image" src="https://github.com/user-attachments/assets/8aa3b841-8568-4e06-817b-145260a53419" />
+
+
+<img width="412" height="230" alt="image" src="https://github.com/user-attachments/assets/45ef0b69-7c5b-429e-802e-a84267f13fcd" /><img width="412" height="223" alt="image" src="https://github.com/user-attachments/assets/8aa3b841-8568-4e06-817b-145260a53419" />
 
 
 
